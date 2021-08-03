@@ -361,7 +361,7 @@
           "options__3": {
             "label": "สี่เหลี่ยมจัตุรัส"
           },
-          "info": "หากต้องการเพิ่มรูปภาพ [แก้ไขคอลเลกชันของคุณ](https://help.shopify.com/en/manual/products/collections)"
+          "info": "หากต้องการเพิ่มรูปภาพ [แก้ไขคอลเลกชันของคุณ] (https://help.shopify.com/en/manual/products/collections)"
         },
         "color_scheme": {
           "options__1": {
@@ -868,15 +868,7 @@
           "name": "ปุ่มแชร์ลงโซเชียล"
         },
         "share": {
-          "name": "แชร์",
-          "settings": {
-            "featured_image_info": {
-              "content": "หากคุณใส่ลิงก์ในโพสต์บนโซเชียลมีเดีย รูปภาพที่แสดงของหน้านั้นจะแสดงเป็นรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)"
-            },
-            "title_info": {
-              "content": "ชื่อร้านค้าและคำอธิบายจะรวมอยู่ในรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
-            }
-          }
+          "name": "แชร์"
         }
       }
     },
@@ -891,7 +883,7 @@
           "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 2:3 เพื่อผลลัพธ์ที่ดีที่สุด"
         },
         "paragraph": {
-          "content": "หากต้องการเปลี่ยนแปลงเนื้อหาบางส่วน ให้แก้ไข [บล็อกโพสต์](https://help.shopify.com/en/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post) ของคุณ"
+          "content": "หากต้องการเปลี่ยนแปลงเนื้อหาบางส่วน ให้แก้ไข [บล็อกโพสต์] ของคุณ (https://help.shopify.com/en/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "show_date": {
           "label": "แสดงวันที่"
@@ -1049,7 +1041,7 @@
           "options__3": {
             "label": "สี่เหลี่ยมจัตุรัส"
           },
-          "info": "หากต้องการเพิ่มรูปภาพ [แก้ไขคอลเลกชันของคุณ](https://help.shopify.com/en/manual/products/collections)"
+          "info": "หากต้องการเพิ่มรูปภาพ [แก้ไขคอลเลกชันของคุณ] (https://help.shopify.com/en/manual/products/collections)"
         },
         "color_scheme": {
           "options__1": {

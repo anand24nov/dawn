@@ -578,7 +578,7 @@
         },
         "header__1": {
           "content": "Assinante de e-mail",
-          "info": "Assinantes adicionados à [lista de clientes](https://help.shopify.com/pt-BR/manual/customers/manage-customers) que \"aceitam marketing\"."
+          "info": "Assinantes adicionados à [lista de clientes] que \"aceitam marketing\".(https://help.shopify.com/pt-BR/manual/customers/manage-customers)"
         },
         "header__2": {
           "content": "Ícones de redes sociais",
@@ -591,7 +591,7 @@
           "content": "Seletor de país/região"
         },
         "header__4": {
-          "info": "Adicione um país/uma região em [configurações de pagamento](/admin/configurações/pagamentos)."
+          "info": "Adicione um país/uma região em [configurações de pagamento].(/admin/configurações/pagamentos)"
         },
         "enable_country_selector": {
           "label": "Habilitar seletor de país/região"
@@ -600,7 +600,7 @@
           "content": "Seletor de idioma"
         },
         "header__6": {
-          "info": "Adicione um idioma em [configurações de idioma](/admin/configurações/idiomas)."
+          "info": "Adicione um idioma em [configurações de idioma].(/admin/configurações/idiomas)"
         },
         "enable_language_selector": {
           "label": "Habilitar seletor de idioma"
@@ -860,15 +860,7 @@
           "name": "Botões de compartilhamento nas redes sociais"
         },
         "share": {
-          "name": "Compartilhar",
-          "settings": {
-            "featured_image_info": {
-              "content": "Se você incluir um link em publicações nas redes sociais, a imagem em destaque da página será exibida como na imagem de pré-visualização. [Saiba mais](https://help.shopify.com/pt-BR/manual/online-store/images/showing-social-media-thumbnail-images)."
-            },
-            "title_info": {
-              "content": "Um título e uma descrição da loja estão incluídos na imagem de pré-visualização. [Saiba mais](https://help.shopify.com/pt-BR/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
-            }
-          }
+          "name": "Compartilhar"
         }
       }
     },
@@ -883,7 +875,7 @@
           "info": "Use uma imagem com proporção de 2:3 para ter os melhores resultados."
         },
         "paragraph": {
-          "content": "Para alterar resumos, edite os [posts do blog](https://help.shopify.com/pt-BR/manual/online-store/blogs/writing-blogs#exiba-o-resumo-de-um-post)."
+          "content": "Para alterar resumos, edite os [posts do blog].(https://help.shopify.com/pt-BR/manual/online-store/blogs/writing-blogs#exiba-o-resumo-de-um-post)"
         },
         "show_date": {
           "label": "Exibir data"
@@ -940,7 +932,7 @@
       "name": "Banner da coleção",
       "settings": {
         "paragraph": {
-          "content": "Para alterar as descrições ou as imagens de coleção, [edite suas coleções](/admin/collections)."
+          "content": "Para alterar as descrições ou as imagens de coleção, [edite suas coleções].(/admin/collections)"
         },
         "show_collection_description": {
           "label": "Exibir a descrição da coleção"

@@ -578,7 +578,7 @@
         },
         "header__1": {
           "content": "Osoba zarejestrowana w celu otrzymywania e-maili",
-          "info": "Subskrybenci dodani do [listy klientów](https://help.shopify.com/en/manual/customers/manage-customers) „wyrażających zgodę na marketing”."
+          "info": "Subskrybenci dodani do [listy klientów] „wyrażających zgodę na marketing”.(https://help.shopify.com/en/manual/customers/manage-customers)"
         },
         "header__2": {
           "content": "Ikony mediów społecznościowych",
@@ -860,15 +860,7 @@
           "name": "Przyciski udostępniania w mediach społecznościowych"
         },
         "share": {
-          "name": "Udostępnij",
-          "settings": {
-            "featured_image_info": {
-              "content": "Jeśli dodasz link w postach mediów społecznościowych, wyróżniony obraz strony będzie wyświetlany jako obraz podglądu. [Dowiedz się więcej](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)."
-            },
-            "title_info": {
-              "content": "Tytuł i opis strony są dodawane wraz z obrazem podglądu. [Dowiedz się więcej](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
-            }
-          }
+          "name": "Udostępnij"
         }
       }
     },

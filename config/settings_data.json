@@ -1,5 +1,6 @@
 {
   "current": {
+    "colors_background_2": "#ffffff",
     "favicon": "shopify:\/\/shop_images\/Third_design_-_Koala_1.png",
     "sections": {
       "announcement-bar": {
@@ -12,10 +13,30 @@
               "color_scheme": "accent-1",
               "link": ""
             }
+          },
+          "a60c30e2-7eab-4b24-b375-3039c196a724": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Welcome to our store",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          },
+          "47248a1c-d8c5-4a77-ac55-4fd2a072e72d": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Welcome to our store",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "a60c30e2-7eab-4b24-b375-3039c196a724",
+          "47248a1c-d8c5-4a77-ac55-4fd2a072e72d"
         ],
         "settings": {
         }

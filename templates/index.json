@@ -28,6 +28,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Sensible_Savings_Starts_Here_1.png",
         "desktop_text_box_position": "center",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,

@@ -1,7 +1,9 @@
 {
   "current": {
-    "colors_solid_button_labels": "rgba(0,0,0,0)",
+    "colors_solid_button_labels": "#1878b9",
+    "colors_text": "rgba(0,0,0,0)",
     "colors_outline_button_labels": "#1878b9",
+    "colors_background_1": "rgba(0,0,0,0)",
     "colors_background_2": "#ffffff",
     "social_facebook_link": "https:\/\/facebook.com\/dollarsensestores",
     "social_instagram_link": "http:\/\/instagram.com\/dollarsensestores",

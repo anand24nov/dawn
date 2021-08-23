@@ -84,9 +84,9 @@
       "settings": {
         "title": "Multicolumn",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "secondary",
         "button_label": "Button label",
         "button_link": "",
         "swipe_on_mobile": false

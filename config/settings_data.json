@@ -19,7 +19,7 @@
             "type": "announcement",
             "settings": {
               "text": "Free Shipping of Online Orders over $60. Low or Flat Shipping Rates for Bulky Orders.",
-              "color_scheme": "accent-1",
+              "color_scheme": "inverse",
               "link": ""
             }
           },

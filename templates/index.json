@@ -1,5 +1,11 @@
 {
   "sections": {
+    "162997892945d35a46": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{{ 'hello, world!' | capitalize }}"
+      }
+    },
     "1629976967ea46d0ae": {
       "type": "image-banner",
       "disabled": true,
@@ -72,18 +78,12 @@
         "show_image_outline": true,
         "show_vendor": false
       }
-    },
-    "162997892945d35a46": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "{{ 'hello, world!' | capitalize }}"
-      }
     }
   },
   "order": [
+    "162997892945d35a46",
     "1629976967ea46d0ae",
     "1629719412b667ba8d",
-    "featured_products",
-    "162997892945d35a46"
+    "featured_products"
   ]
 }

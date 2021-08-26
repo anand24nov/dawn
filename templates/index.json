@@ -48,12 +48,12 @@
         "045845ca-f9a3-48c0-9bbe-33b2b05abdea"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "image_width": "full",
         "image_ratio": "square",
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "secondary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
       }

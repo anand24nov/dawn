@@ -1,5 +1,62 @@
 {
   "sections": {
+    "1629976967ea46d0ae": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1629976967ea46d0ae-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner"
+          }
+        }
+      },
+      "block_order": [
+        "1629976967ea46d0ae-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_11806_Sandgate_Road_Virginia_QLD_4014_September_2_8.30am.png",
+        "image_2": "shopify:\/\/shop_images\/unnamed.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "accent-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": true
+      }
+    },
+    "1629719412b667ba8d": {
+      "type": "multicolumn",
+      "blocks": {
+        "1629719412b667ba8d-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Copy_of_11806_Sandgate_Road_Virginia_QLD_4014_September_2_8.30am.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "045845ca-f9a3-48c0-9bbe-33b2b05abdea": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1629719412b667ba8d-1",
+        "045845ca-f9a3-48c0-9bbe-33b2b05abdea"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -50,52 +107,12 @@
         "image_padding": false,
         "show_view_all": false
       }
-    },
-    "1629719412b667ba8d": {
-      "type": "multicolumn",
-      "blocks": {
-        "1629719412b667ba8d-0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1629719412b667ba8d-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1629719412b667ba8d-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1629719412b667ba8d-0",
-        "1629719412b667ba8d-1",
-        "1629719412b667ba8d-2"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "square",
-        "column_alignment": "left",
-        "background_style": "secondary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
     }
   },
   "order": [
+    "1629976967ea46d0ae",
+    "1629719412b667ba8d",
     "featured_products",
-    "1629719126cfc2b68f",
-    "1629719412b667ba8d"
+    "1629719126cfc2b68f"
   ]
 }

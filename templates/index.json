@@ -30,8 +30,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Copy_of_11806_Sandgate_Road_Virginia_QLD_4014_September_2_8.30am.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "",
+            "text": ""
           }
         },
         "045845ca-f9a3-48c0-9bbe-33b2b05abdea": {

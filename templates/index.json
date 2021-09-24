@@ -7,29 +7,6 @@
         "custom_liquid": "{{ 'hello, world!' | capitalize }}"
       }
     },
-    "1629976967ea46d0ae": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "1629976967ea46d0ae-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner"
-          }
-        }
-      },
-      "block_order": [
-        "1629976967ea46d0ae-0"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design.jpg",
-        "image_2": "shopify:\/\/shop_images\/Untitled_design.jpg",
-        "desktop_text_box_position": "center",
-        "color_scheme": "accent-1",
-        "stack_images_on_mobile": true,
-        "adapt_height_first_image": true
-      }
-    },
     "1629719412b667ba8d": {
       "type": "multicolumn",
       "blocks": {
@@ -83,7 +60,6 @@
   },
   "order": [
     "162997892945d35a46",
-    "1629976967ea46d0ae",
     "1629719412b667ba8d",
     "featured_products"
   ]

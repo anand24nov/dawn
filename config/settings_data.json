@@ -27,11 +27,10 @@
           },
           "a60c30e2-7eab-4b24-b375-3039c196a724": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Welcome to our store",
+              "text": "See Store Locations",
               "color_scheme": "accent-1",
-              "link": ""
+              "link": "shopify:\/\/pages\/store-locator"
             }
           },
           "47248a1c-d8c5-4a77-ac55-4fd2a072e72d": {

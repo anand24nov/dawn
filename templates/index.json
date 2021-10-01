@@ -64,6 +64,25 @@
         "show_view_all": false
       }
     },
+    "1633092547939e9f9b": {
+      "type": "rich-text",
+      "blocks": {
+        "1633092547939e9f9b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop Homewares",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1633092547939e9f9b-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -78,62 +97,12 @@
         "show_image_outline": true,
         "show_vendor": false
       }
-    },
-    "1633092464056b28ce": {
-      "type": "collection-list",
-      "blocks": {
-        "1633092464056b28ce-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "halloween"
-          }
-        },
-        "1633092464056b28ce-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "1633092464056b28ce-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "96922f8e-f275-4b22-8459-213f28f84775": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "f4217a2a-cf74-436f-acbb-c533253b8234": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "1633092464056b28ce-0",
-        "1633092464056b28ce-1",
-        "1633092464056b28ce-2",
-        "96922f8e-f275-4b22-8459-213f28f84775",
-        "f4217a2a-cf74-436f-acbb-c533253b8234"
-      ],
-      "settings": {
-        "title": "Collections",
-        "image_ratio": "adapt",
-        "color_scheme": "background-1",
-        "swipe_on_mobile": false,
-        "image_padding": false,
-        "show_view_all": false
-      }
     }
   },
   "order": [
     "162997892945d35a46",
     "1633092137dd16cb94",
-    "featured_products",
-    "1633092464056b28ce"
+    "1633092547939e9f9b",
+    "featured_products"
   ]
 }

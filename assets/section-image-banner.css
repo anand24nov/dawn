@@ -35,7 +35,7 @@
 
 .banner__media {
   height: 100%;
-  position: center;
+  position: absolute;
   left: 0;
   top: 0;
   width: 80%;

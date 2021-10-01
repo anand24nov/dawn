@@ -133,6 +133,12 @@
         "show_image_outline": true,
         "show_vendor": false
       }
+    },
+    "16330973780b7a2255": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
     }
   },
   "order": [
@@ -140,6 +146,7 @@
     "1633092137dd16cb94",
     "1633092547939e9f9b",
     "16330927667b14353f",
-    "featured_products"
+    "featured_products",
+    "16330973780b7a2255"
   ]
 }

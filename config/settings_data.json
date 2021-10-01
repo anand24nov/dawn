@@ -32,21 +32,11 @@
               "color_scheme": "accent-1",
               "link": "shopify:\/\/pages\/store-locator"
             }
-          },
-          "47248a1c-d8c5-4a77-ac55-4fd2a072e72d": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "accent-1",
-              "link": ""
-            }
           }
         },
         "block_order": [
           "announcement-bar-0",
-          "a60c30e2-7eab-4b24-b375-3039c196a724",
-          "47248a1c-d8c5-4a77-ac55-4fd2a072e72d"
+          "a60c30e2-7eab-4b24-b375-3039c196a724"
         ],
         "settings": {
         }
@@ -57,7 +47,7 @@
           "logo": "shopify:\/\/shop_images\/Discount_Variety_Stores_-_Web_9bae2b7a-fb1c-4873-9d88-0d3581671778.jpg",
           "logo_width": 250,
           "logo_position": "top-left",
-          "menu": "main-dawn-menu",
+          "menu": "new-top",
           "show_line_separator": true,
           "enable_sticky_header": true
         }

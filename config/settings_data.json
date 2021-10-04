@@ -21,15 +21,7 @@
             "type": "announcement",
             "settings": {
               "text": "Free Shipping of Online Orders over $60. Low or Flat Shipping Rates for Bulk items",
-              "color_scheme": "background-1",
-              "link": ""
-            }
-          },
-          "1dac611b-02ae-4791-9f0a-d4f005e96090": {
-            "type": "announcement",
-            "settings": {
-              "text": "Sensible Savings Starts Here!",
-              "color_scheme": "background-2",
+              "color_scheme": "inverse",
               "link": ""
             }
           },
@@ -44,7 +36,6 @@
         },
         "block_order": [
           "announcement-bar-0",
-          "1dac611b-02ae-4791-9f0a-d4f005e96090",
           "a60c30e2-7eab-4b24-b375-3039c196a724"
         ],
         "settings": {

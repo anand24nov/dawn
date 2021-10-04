@@ -1,39 +1,5 @@
 {
   "sections": {
-    "1633349270b0610d70": {
-      "type": "image-with-text",
-      "blocks": {
-        "1633349270b0610d70-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Rated Excellent on Trustpilot!"
-          }
-        },
-        "1633349270b0610d70-1": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "1633349270b0610d70-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1633349270b0610d70-0",
-        "1633349270b0610d70-1",
-        "1633349270b0610d70-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
-      }
-    },
     "1633092137dd16cb94": {
       "type": "collection-list",
       "blocks": {
@@ -170,7 +136,6 @@
     }
   },
   "order": [
-    "1633349270b0610d70",
     "1633092137dd16cb94",
     "1633092547939e9f9b",
     "16330927667b14353f",

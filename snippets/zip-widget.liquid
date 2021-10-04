@@ -1,0 +1,6 @@
+<!-- Zip Widget Start -->
+<span>
+{%- assign current_variant = product.selected_or_first_available_variant -%}
+<script async src="https://widgets.partpay.co.nz/zip-widget-classic-v3.0.0.js?amount={{ current_variant.price | divided_by: 100.0 }}&locale=nz"></script>
+</span>
+<!-- Zip Widget End -->

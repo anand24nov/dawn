@@ -1,12 +1,5 @@
 {
   "sections": {
-    "162997892945d35a46": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "{{ 'hello, world!' | capitalize }}"
-      }
-    },
     "1633092137dd16cb94": {
       "type": "collection-list",
       "blocks": {
@@ -143,7 +136,6 @@
     }
   },
   "order": [
-    "162997892945d35a46",
     "1633092137dd16cb94",
     "1633092547939e9f9b",
     "16330927667b14353f",

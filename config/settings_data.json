@@ -25,6 +25,14 @@
               "link": ""
             }
           },
+          "1dac611b-02ae-4791-9f0a-d4f005e96090": {
+            "type": "announcement",
+            "settings": {
+              "text": "Sensible Savings Starts Here!",
+              "color_scheme": "background-2",
+              "link": ""
+            }
+          },
           "a60c30e2-7eab-4b24-b375-3039c196a724": {
             "type": "announcement",
             "settings": {
@@ -36,6 +44,7 @@
         },
         "block_order": [
           "announcement-bar-0",
+          "1dac611b-02ae-4791-9f0a-d4f005e96090",
           "a60c30e2-7eab-4b24-b375-3039c196a724"
         ],
         "settings": {
@@ -44,6 +53,7 @@
       "header": {
         "type": "header",
         "settings": {
+          "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/Discount_Variety_Stores_-_Web_9bae2b7a-fb1c-4873-9d88-0d3581671778.jpg",
           "logo_width": 250,
           "logo_position": "top-left",

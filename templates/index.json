@@ -85,16 +85,22 @@
             "collection": "curtains"
           }
         },
-        "16330927667b14353f-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "home-and-garden-decorations"
-          }
-        },
         "9e4a948e-b52a-4c56-b798-d5e60689b3dd": {
           "type": "featured_collection",
           "settings": {
             "collection": "kitchen"
+          }
+        },
+        "f2c00078-5066-4113-a11e-12bad5cf5fd9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "supermarket"
+          }
+        },
+        "16330927667b14353f-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "home-and-garden-decorations"
           }
         },
         "16330927667b14353f-2": {
@@ -114,22 +120,16 @@
           "settings": {
             "collection": "figurines-and-fairies"
           }
-        },
-        "f2c00078-5066-4113-a11e-12bad5cf5fd9": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "supermarket"
-          }
         }
       },
       "block_order": [
         "16330927667b14353f-0",
-        "16330927667b14353f-1",
         "9e4a948e-b52a-4c56-b798-d5e60689b3dd",
+        "f2c00078-5066-4113-a11e-12bad5cf5fd9",
+        "16330927667b14353f-1",
         "16330927667b14353f-2",
         "3d8ac25c-3f95-4b9d-82c1-949867202607",
-        "dc7f1be4-38d8-4efd-885b-5eae638cdc25",
-        "f2c00078-5066-4113-a11e-12bad5cf5fd9"
+        "dc7f1be4-38d8-4efd-885b-5eae638cdc25"
       ],
       "settings": {
         "title": "",

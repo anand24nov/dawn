@@ -120,6 +120,18 @@
           "settings": {
             "collection": "figurines-and-fairies"
           }
+        },
+        "b111a42e-8200-4be5-9799-63df38706b9d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "health-and-beauty"
+          }
+        },
+        "53afbd10-e3c6-456f-9b04-26a578c418d6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
@@ -129,7 +141,9 @@
         "16330927667b14353f-1",
         "16330927667b14353f-2",
         "3d8ac25c-3f95-4b9d-82c1-949867202607",
-        "dc7f1be4-38d8-4efd-885b-5eae638cdc25"
+        "dc7f1be4-38d8-4efd-885b-5eae638cdc25",
+        "b111a42e-8200-4be5-9799-63df38706b9d",
+        "53afbd10-e3c6-456f-9b04-26a578c418d6"
       ],
       "settings": {
         "title": "",

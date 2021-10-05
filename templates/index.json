@@ -174,25 +174,24 @@
         "1633437699b82fa285-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "diamond-art",
             "image_padding": false,
             "color_scheme": "background-1"
           }
         },
-        "1633437699b82fa285-1": {
-          "type": "product",
+        "fab53395-d97b-469c-8692-44471e7afebf": {
+          "type": "collection",
           "settings": {
-            "product": "",
-            "second_image": false,
+            "collection": "craft",
             "image_padding": false,
-            "secondary_background": false
+            "color_scheme": "background-1"
           }
         }
       },
       "block_order": [
         "e16e94b2-cac2-425a-8808-a35b82162b1a",
         "1633437699b82fa285-2",
-        "1633437699b82fa285-1"
+        "fab53395-d97b-469c-8692-44471e7afebf"
       ],
       "settings": {
         "heading": "Art and Craft",

@@ -176,7 +176,7 @@
   height: fit-content;
   align-items: center;
   text-align: center;
-  width: 50%;
+  width: 100%;
 }
 
 @media screen and (min-width: 750px) {

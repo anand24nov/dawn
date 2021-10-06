@@ -36,10 +36,10 @@
 .banner__media {
   height: 100%;
   position: absolute;
-  left: 10;
+  left: 50;
   right: 10;
   top: 0;
-  width: 100%;
+  width: 70%;
 }
 
 .banner__media-half {

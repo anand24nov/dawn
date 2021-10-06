@@ -295,13 +295,13 @@
           <div class="footer__payment">
             <span class="visually-hidden">{{ 'sections.footer.payment' | t }}</span>
             <ul class="list list-payment" role="list">
-              {% assign enabled_payment_types = 'visa,master,american_express,paypal,zip' | remove: ' ' | split: ',' %}
+              {% assign enabled_payment_types = 'visa,master,american_express,paypal' | remove: ' ' | split: ',' %}
               {% for type in enabled_payment_types %}
                 <li class="list-payment__item">
                   {{ type | payment_type_svg_tag: class: 'icon icon--full-color' }}
                 </li>
               {%- endfor -%}
-              <li><img src="https://static.zipmoney.com.au/assets/default/footer-tile/footer-tile-new.png" style="height:25px;"></li>
+              <li class="list-payment__item><img src="https://static.zipmoney.com.au/assets/default/footer-tile/footer-tile-new.png" style="height:25px;"></li>
             </ul>
           </div>
         {%- endif -%}

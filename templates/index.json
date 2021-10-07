@@ -238,8 +238,8 @@
     "16334377097fa87ce3": {
       "type": "featured-collection",
       "settings": {
-        "title": "Supermarket",
-        "collection": "",
+        "title": "Artificial Flowers",
+        "collection": "flowers",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": true,

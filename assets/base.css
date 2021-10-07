@@ -2305,5 +2305,5 @@ details-disclosure > details {
   }
 }
   
-.afterpay-paragraph{width: 50%;display: inline-block;}
+.afterpay-paragraph{width: 50%;display: inline-block;float: left;}
 .z_pay{width: 50%;float: right;}

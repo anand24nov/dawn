@@ -2304,3 +2304,6 @@ details-disclosure > details {
     stroke: CanvasText;
   }
 }
+  
+.afterpay-paragraph{width: 50%;display: inline-block;}
+.z_pay{width: 50%;float: right;}

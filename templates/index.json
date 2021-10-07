@@ -20,14 +20,13 @@
         },
         "1633510858245424d0-2": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Read Reviews",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_style_secondary_2": true
           }
         }
       },
@@ -37,7 +36,7 @@
         "1633510858245424d0-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Rated_Excellent_on_Trustpilot_18f1f274-8e86-4990-8da5-f318f95fe32b.png",
+        "image": "shopify:\/\/shop_images\/Dollars_and_Sense_Review_180c9c49-09da-4ca9-9f13-50e08016479b.png",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,

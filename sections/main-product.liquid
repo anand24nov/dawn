@@ -88,8 +88,9 @@
               {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price--large' -%}
             </div>
         	<div>
-        		{%- include 'afterpay' -%}
+        		
         		<div class="z_pay">
+                  {%- include 'afterpay' -%}
         			<img src="https://media.brasnthings.com/wysiwyg/website_elements/pdp/zip.png" alt="ZipPay">
         			<p>Own it now, pay later</p>
     			</div>

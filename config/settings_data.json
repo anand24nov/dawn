@@ -81,6 +81,14 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "1633576254d8c86ce1": {
+        "type": "shopify:\/\/apps\/product-filter-search\/blocks\/boost-pfs-style\/7fc998ae-a150-4367-bab8-505d8a4503f7",
+        "disabled": true,
+        "settings": {
+        }
+      }
+    }
   }
 }

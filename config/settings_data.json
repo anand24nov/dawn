@@ -1,12 +1,12 @@
 {
   "current": {
     "colors_solid_button_labels": "#2953ea",
-    "colors_accent_1": "#fdfdfd",
+    "colors_accent_1": "#e8eef2",
     "colors_text": "rgba(0,0,0,0)",
     "colors_outline_button_labels": "#1878b9",
-    "colors_background_1": "#ffffff",
+    "colors_background_1": "#fafafa",
     "colors_background_2": "#e22120",
-    "sale_badge_color_scheme": "accent-2",
+    "sale_badge_color_scheme": "accent-1",
     "sold_out_badge_color_scheme": "background-1",
     "accent_icons": "outline-button",
     "page_width": "1600",

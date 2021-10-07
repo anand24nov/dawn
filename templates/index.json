@@ -296,17 +296,17 @@
         "show_rating": false
       }
     },
-    "1633584721d3e9ed06": {
+    "1633585422721dc7d9": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
-        "collection": "",
+        "title": "Clearance Sale",
+        "collection": "pottery-barn-clearance",
         "products_to_show": 4,
         "show_view_all": true,
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
+        "show_secondary_image": true,
+        "add_image_padding": true,
         "show_image_outline": true,
         "show_vendor": false,
         "show_rating": false
@@ -322,6 +322,6 @@
     "1633437699b82fa285",
     "1633580735c63fd64d",
     "16335824536a535694",
-    "1633584721d3e9ed06"
+    "1633585422721dc7d9"
   ]
 }

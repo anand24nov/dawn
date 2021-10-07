@@ -49,7 +49,7 @@
           "logo": "shopify:\/\/shop_images\/Sensible_savings_starts_here_1_f5f676fb-9e11-4564-948b-67249db1de90.png",
           "logo_width": 250,
           "logo_position": "top-left",
-          "menu": "wookie-side-bar",
+          "menu": "new-menu-deep",
           "show_line_separator": true,
           "enable_sticky_header": true
         }

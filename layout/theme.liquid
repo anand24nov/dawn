@@ -30,7 +30,8 @@
     {% render 'meta-tags' %}
 
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
-    {{ content_for_header }}
+    {% include 'buddha-megamenu' %}
+  {{ content_for_header }}
 
     {%- liquid
       assign body_font_bold = settings.type_body_font | font_modify: 'weight', 'bold'
@@ -120,6 +121,8 @@
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
   {% render 'minmaxify-head' %}
+
+  {% render 'shogun-head' %}
 </head>
 
   <body class="gradient">

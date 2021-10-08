@@ -7,6 +7,7 @@
     "colors_background_1": "#fafafa",
     "colors_background_2": "#e22120",
     "type_header_font": "oswald_n4",
+    "type_body_font": "antique_olive_n4",
     "sale_badge_color_scheme": "accent-1",
     "sold_out_badge_color_scheme": "background-1",
     "accent_icons": "outline-button",

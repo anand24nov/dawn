@@ -15,6 +15,12 @@
           "settings": {
           }
         },
+        "9f994084-00aa-42ad-9d17-fce0e7dc2f8d": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% assign current_variant = product.selected_or_first_available_variant %}\n<span class=\"variant-sku\">{{ current_variant.sku }}<\/span>"
+          }
+        },
         "subtitle": {
           "type": "text",
           "settings": {
@@ -59,6 +65,7 @@
       "block_order": [
         "vendor",
         "title",
+        "9f994084-00aa-42ad-9d17-fce0e7dc2f8d",
         "subtitle",
         "price",
         "variant_picker",

@@ -9,16 +9,16 @@
             "collection": "christmas-1"
           }
         },
-        "1633092137dd16cb94-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "christmas-elf-on-shelf"
-          }
-        },
         "1633092137dd16cb94-1": {
           "type": "featured_collection",
           "settings": {
             "collection": "christmas-decorations-1"
+          }
+        },
+        "1633092137dd16cb94-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "christmas-elf-on-shelf"
           }
         },
         "1633092137dd16cb94-2": {
@@ -36,14 +36,14 @@
         "dc22201b-7cee-46f1-93cb-4184cf06a319": {
           "type": "featured_collection",
           "settings": {
-            "collection": "halloween-home-decor"
+            "collection": "xmas-cards-and-wrap"
           }
         }
       },
       "block_order": [
         "3f81e54b-c848-41e3-94a4-c72b18a3e92c",
-        "1633092137dd16cb94-0",
         "1633092137dd16cb94-1",
+        "1633092137dd16cb94-0",
         "1633092137dd16cb94-2",
         "7cdfd783-82fd-441c-ae9c-39a4d8f1f9f5",
         "dc22201b-7cee-46f1-93cb-4184cf06a319"

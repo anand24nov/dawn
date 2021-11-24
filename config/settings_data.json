@@ -35,11 +35,20 @@
               "color_scheme": "background-1",
               "link": "shopify:\/\/pages\/store-locator"
             }
+          },
+          "9930b467-a2ae-45b6-bbf6-2f67563d5647": {
+            "type": "announcement",
+            "settings": {
+              "text": "Order Christmas before it's too late! Afterpay and Zip Available",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
           }
         },
         "block_order": [
           "announcement-bar-0",
-          "a60c30e2-7eab-4b24-b375-3039c196a724"
+          "a60c30e2-7eab-4b24-b375-3039c196a724",
+          "9930b467-a2ae-45b6-bbf6-2f67563d5647"
         ],
         "settings": {
         }

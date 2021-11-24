@@ -281,6 +281,49 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "16377200694ecacc6a": {
+      "type": "collection-list",
+      "blocks": {
+        "1637720069a6650f92-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "party-balloons"
+          }
+        },
+        "1637720069a6650f92-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "foil-balloons-1"
+          }
+        },
+        "1637720069a6650f92-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "alphabet-foil-balloons"
+          }
+        },
+        "4b298c78-6452-4c70-8209-13e744215b69": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1637720069a6650f92-0",
+        "1637720069a6650f92-1",
+        "1637720069a6650f92-2",
+        "4b298c78-6452-4c70-8209-13e744215b69"
+      ],
+      "settings": {
+        "title": "Discount Party Store",
+        "image_ratio": "square",
+        "color_scheme": "inverse",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -292,6 +335,7 @@
     "1633437699b82fa285",
     "1633580735c63fd64d",
     "16335824536a535694",
-    "1633585422721dc7d9"
+    "1633585422721dc7d9",
+    "16377200694ecacc6a"
   ]
 }

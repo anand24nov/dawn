@@ -488,6 +488,8 @@
     "@context": "http://schema.org/",
     "@type": "Product",
     "name": {{ product.title | json }},
+    {% assign current_variant = product.selected_or_first_available_variant %}
+<span class="variant-sku">{{ current_variant.sku }}</span>
     "url": {{ shop.url | append: product.url | json }},
     {%- if product.selected_or_first_available_variant.featured_media -%}
       {%- assign media_size = product.selected_or_first_available_variant.featured_media.preview_image.width | append: 'x' -%}

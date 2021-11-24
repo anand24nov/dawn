@@ -1,58 +1,12 @@
 {
   "sections": {
-    "1633510858245424d0": {
-      "type": "image-banner",
-      "blocks": {
-        "1633510858245424d0-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
-        "1633510858245424d0-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "1633510858245424d0-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Read Reviews",
-            "button_link_1": "shopify:\/\/pages\/reviews",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1633510858245424d0-0",
-        "1633510858245424d0-1",
-        "1633510858245424d0-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Dollars_and_Sense_Review_e0398585-ca33-40da-83ab-cc01df878f75.png",
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "1633092137dd16cb94": {
       "type": "collection-list",
       "blocks": {
         "3f81e54b-c848-41e3-94a4-c72b18a3e92c": {
           "type": "featured_collection",
           "settings": {
-            "collection": "halloween"
+            "collection": "christmas-1"
           }
         },
         "1633092137dd16cb94-0": {
@@ -95,7 +49,7 @@
         "dc22201b-7cee-46f1-93cb-4184cf06a319"
       ],
       "settings": {
-        "title": "Shop Halloween",
+        "title": "Shop Christmas",
         "image_ratio": "adapt",
         "color_scheme": "inverse",
         "swipe_on_mobile": false,
@@ -330,7 +284,6 @@
     }
   },
   "order": [
-    "1633510858245424d0",
     "1633092137dd16cb94",
     "1633585891007b48c2",
     "16330927667b14353f",

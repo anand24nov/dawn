@@ -291,6 +291,12 @@
             "collection": "party-balloons"
           }
         },
+        "f0beb1bf-7ffd-4b71-b1ab-f3d04a51c58e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "metallic-balloons"
+          }
+        },
         "1637720069a6650f92-1": {
           "type": "featured_collection",
           "settings": {
@@ -306,15 +312,37 @@
         "4b298c78-6452-4c70-8209-13e744215b69": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "party-tableware"
+          }
+        },
+        "403a1563-8a96-4a15-80e5-c144a79c9315": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "foil-tableware"
+          }
+        },
+        "e24f3426-69a4-40b0-b45e-ae36c252fed0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "party-candles"
+          }
+        },
+        "2d5c4b43-9a07-4e7b-a2bf-00bd5d8f35b6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "eco-hb"
           }
         }
       },
       "block_order": [
         "1637720069a6650f92-0",
+        "f0beb1bf-7ffd-4b71-b1ab-f3d04a51c58e",
         "1637720069a6650f92-1",
         "1637720069a6650f92-2",
-        "4b298c78-6452-4c70-8209-13e744215b69"
+        "4b298c78-6452-4c70-8209-13e744215b69",
+        "403a1563-8a96-4a15-80e5-c144a79c9315",
+        "e24f3426-69a4-40b0-b45e-ae36c252fed0",
+        "2d5c4b43-9a07-4e7b-a2bf-00bd5d8f35b6"
       ],
       "settings": {
         "title": "Discount Party Store",

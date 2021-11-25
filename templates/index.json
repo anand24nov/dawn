@@ -480,6 +480,41 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "1637849329edcec2a3": {
+      "type": "image-with-text",
+      "blocks": {
+        "1637849329ea5564d1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "1637849329ea5564d1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>People love us! Consistently delivering Value with quality across 22 Stores Australia wide and Online!<\/p>"
+          }
+        },
+        "1637849329ea5564d1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "See Reviews",
+            "button_link": "shopify:\/\/pages\/reviews"
+          }
+        }
+      },
+      "block_order": [
+        "1637849329ea5564d1-0",
+        "1637849329ea5564d1-1",
+        "1637849329ea5564d1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rated_Excellent_1.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -495,6 +530,7 @@
     "1633437699b82fa285",
     "1633580735c63fd64d",
     "16335824536a535694",
-    "1633585422721dc7d9"
+    "1633585422721dc7d9",
+    "1637849329edcec2a3"
   ]
 }

@@ -57,6 +57,111 @@
         "show_view_all": false
       }
     },
+    "1637820723087fd2ad": {
+      "type": "rich-text",
+      "blocks": {
+        "163782072341c8bffa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Black Friday Deals",
+            "heading_size": "h1"
+          }
+        },
+        "163782072341c8bffa-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "163782072341c8bffa-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "163782072341c8bffa-0",
+        "163782072341c8bffa-1",
+        "163782072341c8bffa-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1637820609420d02be": {
+      "type": "featured-product",
+      "blocks": {
+        "163782060928a04b1f-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "163782060928a04b1f-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "163782060928a04b1f-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "163782060928a04b1f-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "163782060928a04b1f-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "163782060928a04b1f-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "163782060928a04b1f-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "163782060928a04b1f-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "163782060928a04b1f-0",
+        "163782060928a04b1f-1",
+        "163782060928a04b1f-2",
+        "163782060928a04b1f-3",
+        "163782060928a04b1f-4",
+        "163782060928a04b1f-5",
+        "163782060928a04b1f-6",
+        "163782060928a04b1f-7"
+      ],
+      "settings": {
+        "product": "mini-drone-in-luggage-box",
+        "secondary_background": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
     "1633585891007b48c2": {
       "type": "featured-collection",
       "settings": {
@@ -363,6 +468,8 @@
   },
   "order": [
     "1633092137dd16cb94",
+    "1637820723087fd2ad",
+    "1637820609420d02be",
     "1633585891007b48c2",
     "16377200694ecacc6a",
     "16330927667b14353f",

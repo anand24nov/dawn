@@ -94,6 +94,74 @@
         "full_width": true
       }
     },
+    "16378210182ae4185a": {
+      "type": "featured-product",
+      "blocks": {
+        "1637821018708f7cd4-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1637821018708f7cd4-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1637821018708f7cd4-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1637821018708f7cd4-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1637821018708f7cd4-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1637821018708f7cd4-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1637821018708f7cd4-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1637821018708f7cd4-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1637821018708f7cd4-0",
+        "1637821018708f7cd4-1",
+        "1637821018708f7cd4-2",
+        "1637821018708f7cd4-3",
+        "1637821018708f7cd4-4",
+        "1637821018708f7cd4-5",
+        "1637821018708f7cd4-6",
+        "1637821018708f7cd4-7"
+      ],
+      "settings": {
+        "product": "christmas-tree-130-heads-1-2m",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
     "1637820609420d02be": {
       "type": "featured-product",
       "blocks": {
@@ -469,6 +537,7 @@
   "order": [
     "1633092137dd16cb94",
     "1637820723087fd2ad",
+    "16378210182ae4185a",
     "1637820609420d02be",
     "1633585891007b48c2",
     "16377200694ecacc6a",

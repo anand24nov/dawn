@@ -16,6 +16,8 @@
     "social_instagram_link": "http:\/\/instagram.com\/dollarsensestores",
     "social_tiktok_link": "https:\/\/tiktok.com\/@dollarsensestores",
     "favicon": "shopify:\/\/shop_images\/Third_design_-_Koala_1.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/Untitled_design_75b7805d-f069-4b10-9c91-760fcade6157.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Discount_Variety_Stores_-_Web_3b7b4b16-d06c-46de-87ae-9b4d8b4912c7.jpg",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",

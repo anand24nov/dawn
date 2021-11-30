@@ -92,127 +92,6 @@
         "show_view_all": false
       }
     },
-    "1637820723087fd2ad": {
-      "type": "rich-text",
-      "blocks": {
-        "163782072341c8bffa-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Black Friday Deals",
-            "heading_size": "h1"
-          }
-        },
-        "163782072341c8bffa-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "163782072341c8bffa-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "163782072341c8bffa-0",
-        "163782072341c8bffa-1",
-        "163782072341c8bffa-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
-    "16378210182ae4185a": {
-      "type": "featured-product",
-      "blocks": {
-        "1637821018708f7cd4-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "1637821018708f7cd4-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "1637821018708f7cd4-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1637821018708f7cd4-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1637821018708f7cd4-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1637821018708f7cd4-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "1637821018708f7cd4-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "1637821018708f7cd4-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "1637821018708f7cd4-0",
-        "1637821018708f7cd4-1",
-        "1637821018708f7cd4-2",
-        "1637821018708f7cd4-3",
-        "1637821018708f7cd4-4",
-        "1637821018708f7cd4-5",
-        "1637821018708f7cd4-6",
-        "1637821018708f7cd4-7"
-      ],
-      "settings": {
-        "product": "christmas-tree-130-heads-1-2m",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false
-      }
-    },
-    "1637822795b7fde458": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "collection": "black-friday",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": true,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
-    },
     "1633585891007b48c2": {
       "type": "featured-collection",
       "settings": {
@@ -520,9 +399,6 @@
   "order": [
     "1637849329edcec2a3",
     "1633092137dd16cb94",
-    "1637820723087fd2ad",
-    "16378210182ae4185a",
-    "1637822795b7fde458",
     "1633585891007b48c2",
     "16377200694ecacc6a",
     "16330927667b14353f",

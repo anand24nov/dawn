@@ -100,6 +100,7 @@
                 {%- endif -%}
               </div>
             {%- endif -%}
+        	{%- include 'afterpay' -%}
             <div {{ block.shopify_attributes }}>
               {%- form 'product', product, id: 'product-form-installment', class: 'installment caption-large' -%}
                 <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">

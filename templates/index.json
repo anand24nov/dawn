@@ -103,6 +103,41 @@
         "enable_video_looping": false
       }
     },
+    "1639724798de61e2d0": {
+      "type": "rich-text",
+      "blocks": {
+        "1639724798f0efcd30-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop and Win Entry- Yarawonga store",
+            "heading_size": "h1"
+          }
+        },
+        "1639724798f0efcd30-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Submit your shop and win entry here to win a giant floating island inflatable! Entries close Dec 23rd,12 noon<\/p>"
+          }
+        },
+        "1639724798f0efcd30-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Submit Entry",
+            "button_link": "https:\/\/form.jotform.com\/213501561700038",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1639724798f0efcd30-0",
+        "1639724798f0efcd30-1",
+        "1639724798f0efcd30-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "1633092137dd16cb94": {
       "type": "collection-list",
       "blocks": {
@@ -546,46 +581,12 @@
         "show_vendor": false,
         "show_rating": false
       }
-    },
-    "1639724798de61e2d0": {
-      "type": "rich-text",
-      "blocks": {
-        "1639724798f0efcd30-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Shop and Win Entry- Yarawonga store",
-            "heading_size": "h1"
-          }
-        },
-        "1639724798f0efcd30-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Submit your shop and win entry here to win a giant floating island inflatable! Entries close Dec 23rd,12 noon<\/p>"
-          }
-        },
-        "1639724798f0efcd30-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Submit Entry",
-            "button_link": "https:\/\/form.jotform.com\/213501561700038",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1639724798f0efcd30-0",
-        "1639724798f0efcd30-1",
-        "1639724798f0efcd30-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
     }
   },
   "order": [
     "1637849329edcec2a3",
     "1639701491afdce908",
+    "1639724798de61e2d0",
     "1633092137dd16cb94",
     "163909799161579ed3",
     "16382549692ba3c470",
@@ -597,7 +598,6 @@
     "1633437699b82fa285",
     "1633580735c63fd64d",
     "16335824536a535694",
-    "1633585422721dc7d9",
-    "1639724798de61e2d0"
+    "1633585422721dc7d9"
   ]
 }

@@ -35,6 +35,74 @@
         "layout": "image_first"
       }
     },
+    "1639701491afdce908": {
+      "type": "featured-product",
+      "blocks": {
+        "1639701491a33cd0dd-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1639701491a33cd0dd-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1639701491a33cd0dd-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1639701491a33cd0dd-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1639701491a33cd0dd-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1639701491a33cd0dd-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1639701491a33cd0dd-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1639701491a33cd0dd-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1639701491a33cd0dd-0",
+        "1639701491a33cd0dd-1",
+        "1639701491a33cd0dd-2",
+        "1639701491a33cd0dd-3",
+        "1639701491a33cd0dd-4",
+        "1639701491a33cd0dd-5",
+        "1639701491a33cd0dd-6",
+        "1639701491a33cd0dd-7"
+      ],
+      "settings": {
+        "product": "xmas-reusable-mask",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
     "1633092137dd16cb94": {
       "type": "collection-list",
       "blocks": {
@@ -482,6 +550,7 @@
   },
   "order": [
     "1637849329edcec2a3",
+    "1639701491afdce908",
     "1633092137dd16cb94",
     "163909799161579ed3",
     "16382549692ba3c470",
